@@ -1,5 +1,5 @@
 #!/bin/bash
 
-haha = "haha"
+haha="haha"
 
 echo $haha
